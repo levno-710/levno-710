@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm Elias - I'm a fullstack developer, data scientist and student at [hhu](https://www.hhu.de/).
+I'm Elias - I'm a fullstack developer, data scientist and student at [hhu](https://www.hhu.de/en/).
 
 [![levno-710's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=levno-710&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/levno-710)
 
