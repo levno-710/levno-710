@@ -4,9 +4,7 @@ I'm Elias - I'm a fullstack developer, data scientist and student at [hhu](https
 [![levno-710's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=levno-710&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/levno-710)
 
 ## Languages and Tools
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
 [![CSharp](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/de-de/dotnet/csharp/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
