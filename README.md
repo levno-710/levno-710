@@ -10,7 +10,7 @@ I'm Elias - I'm a fullstack developer, data scientist and student at [hhu](https
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
 [![Apache Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![Kotlin](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
