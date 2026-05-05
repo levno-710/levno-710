@@ -42,7 +42,7 @@ Currently working as a **Working Student at QIAGEN**, where I focus on data scie
 <p>
   A Lua obfuscator written in pure Lua, focused on AST transformations,
   control-flow obfuscation, string encryption, anti-tamper techniques,
-  and Lua-specific runtime tricks. Widely regarded
+  and Lua-specific runtime tricks.
 </p>
 
 <p>
