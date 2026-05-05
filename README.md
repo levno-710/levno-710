@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Elias%20Oelschner&fontAlign=50&fontAlignY=35&fontSize=42&desc=Fullstack%20Developer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Systems%20Builder&descAlign=50&descAlignY=60" />
 
 <a href="https://github.com/levno-710">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&center=true&vCenter=true&width=760&lines=Building+things+from+algorithms+to+interfaces;Data+Science+%E2%9C%A6+Fullstack+%E2%9C%A6+Systems;Compilers+%E2%80%A2+ML+%E2%80%A2+Computer+Vision;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&center=true&vCenter=true&width=760&lines=Data+Science+%E2%9C%A6+Fullstack+%E2%9C%A6+Systems;Compilers+%E2%80%A2+ML+%E2%80%A2+Computer+Vision;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/>
