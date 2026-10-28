@@ -19,12 +19,12 @@
 
 ---
 
-I'm **Elias**, a fullstack developer, data scientist, and computer science student at **HHU Düsseldorf**.
+I'm **Elias**, a fullstack developer, data scientist, and computer science student at **RWTH Aachen**.
 
 I like building software that sits close to the real world:  
 from **machine learning systems** and **computer vision pipelines** to **developer tools** and **infrastructure**.
 
-Currently working as a **Working Student at QIAGEN**, where I focus on data science, automation, machine learning, and practical software systems.
+Currently working as a **Junior AI Specialist at QIAGEN**, where I focus on data science, automation, machine learning, and practical software systems.
 
 ---
 
